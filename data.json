@@ -1,0 +1,13 @@
+{
+    "instructors": [
+        {
+            "id": 1,
+            "avatar_url": "http://google.com",
+            "name": "Guilherme Leme",
+            "birth": 720748800000,
+            "gender": "M",
+            "services": "musculação, fit dance",
+            "created_at": 1600086568275
+        }
+    ]
+}
